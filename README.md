@@ -1,12 +1,12 @@
-# Django Chat
+# Django Group Chat
 
-This is a simple chat room built using Django Channels.
+This is a simple chat  built using Django Channels.
 
 Setup instructions on Ubuntu 16.04:
 
-Follow this [guide](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-16-04) for the initial server setup.
 
-Update package index :
+
+Update package  :
 
 ```
 sudo apt-get update
@@ -41,7 +41,7 @@ GRANT ALL PRIVILEGES ON DATABASE djangochat TO djangochatuser;
 Setup Django project :
 
 ```
-git clone https://github.com/ploggingdev/djangochat.git
+git clone https://github.com/Bheema8556/djangochat
 
 sudo apt install python3-venv
 
